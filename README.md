@@ -61,7 +61,7 @@ PriorityPlus is a simple task management application that helps you organize you
     <li>Vite</li>
     <li>Redux RTK</li>
     <li>TypeScript</li>
-    <li>Tailwind</li>
+    <li>TailwindCSS</li>
     <li>Some Libraries(you can find them at package.json file)</li>
   </ul>
 </details>
